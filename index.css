@@ -180,7 +180,7 @@ img{
   border-radius: 5px;
 }
 .text-left{
-  padding: 20px;
+  padding: 0px 30px;
 
 }
 .background{
@@ -222,15 +222,23 @@ button:hover{
 .container-contacts{
   text-align: center;
   background-color: #ca2525;
-  padding: 40px 0px;
+  padding: 90px 0px;
 }
 
 .container-contacts h3{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   
 }
+.container-contacts a{
+
+  color: #000000;
+}
 .container-contacts h1{
   color: #000000;
+}
+.container-contacts img {
+  align-items: center;
+  padding: 0px 70px;
 }
 .footer {
   background-color: #222;
